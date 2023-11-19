@@ -1,8 +1,9 @@
-## About Me - Nguyen Huy Tu
---------------------------------------------------
+# About Me - Nguyen Huy Tu
 
 An Unofficial (Embedded) Software Developer
 
+
+# Github Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renadayne&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
