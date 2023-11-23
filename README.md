@@ -1,6 +1,6 @@
 # About Me - Nguyen Huy Tu
 
-An Unofficial (Embedded) Software Developer
+An Unofficial Software Developer
 
 
 # Github Stats
