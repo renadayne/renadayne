@@ -1,6 +1,6 @@
 # About Me - Nguyen Huy Tu
 
-Embedded Software Developer
+A Normal Software Developer
 
 
 # Github Stats
