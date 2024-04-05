@@ -7,7 +7,7 @@ A Normal Software Developer
 
 <br/>
 
-[![Rena's GitHub stats](https://github-readme-stats.vercel.app/api?username=renadayne&show_icons=true&theme=radical)](https://github.com/renadayne/github-readme-stats)
+[![Rena's GitHub stats](https://github-readme-stats.vercel.app/api?username=renadayne&show_icons=true&theme=radical)](https://github.com/renadayne)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renadayne&hide_progress=true&show_icons=true&theme=radical)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=renadayne&theme=radical&hide_border=false)<br/>
 </p>
