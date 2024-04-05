@@ -1,4 +1,4 @@
-# About Me - Nguyen Huy Tu
+# About Me
 
 A Normal Software Developer
 
